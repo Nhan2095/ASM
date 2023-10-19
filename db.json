@@ -1,0 +1,152 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "img": "images/product-1.jpg",
+      "title": "Sản phẩm 1",
+      "price": 200,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 2,
+      "img": "images/product-2.jpg",
+      "title": "Sản phẩm 2",
+      "price": 400,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 3,
+      "img": "images/product-3.jpg",
+      "title": "Sản phẩm 3",
+      "price": 350,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 4,
+      "img": "images/product-4.jpg",
+      "title": "Sản phẩm 4",
+      "price": 210,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 5,
+      "img": "images/product-5.jpg",
+      "title": "Sản phẩm 5",
+      "price": 420,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 6,
+      "img": "images/product-6.jpg",
+      "title": "Sản phẩm 6",
+      "price": 540,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 7,
+      "img": "images/product-7.jpg",
+      "title": "Sản phẩm 7",
+      "price": 260,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 8,
+      "img": "images/product-8.jpg",
+      "title": "Sản phẩm 8",
+      "price": 350,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 9,
+      "img": "images/product-9.jpg",
+      "title": "Sản phẩm 9",
+      "price": 350,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 10,
+      "img": "images/product-10.jpg",
+      "title": "Sản phẩm 10",
+      "price": 350,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 11,
+      "img": "images/12.jpg",
+      "title": "Sản phẩm 12",
+      "price": 350,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 12,
+      "img": "images/13.jpg",
+      "title": "Sản phẩm 13",
+      "price": 350,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 13,
+      "img": "images/14.jpg",
+      "title": "Sản phẩm 14",
+      "price": 350,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 14,
+      "img": "images/15.jpg",
+      "title": "Sản phẩm 15",
+      "price": 350,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 15,
+      "img": "images/16.jpg",
+      "title": "Sản phẩm 16",
+      "price": 350,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    },
+    {
+      "id": 16,
+      "img": "images/17.jpg",
+      "title": "Sản phẩm 17",
+      "price": 350,
+      "description":"Các sản phẩm giày dép của Brunei dự kiến sẽ được phân thành hai nhóm, một nhóm sẽ bị loại bỏ dần khi mà hiệp định có hành động và nhóm kia bị loại đi dần sau 7 năm",
+      "quantity": 300
+    }
+  ],
+  "user": [
+    {
+      "name": "Nguyễn Trọng Nhân",
+      "email": "nhan2095a@gma5il.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "nhan20952323",
+      "email": "nhan2092132135a@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 7,
+    "img": "images/product-7.jpg",
+    "title": "Sản phẩm 7",
+    "price": 260
+  },
+  {
+    "id": 8,
+    "img": "images/product-8.jpg",
+    "title": "Sản phẩm 8",
+    "price": 350
+  },
+  {
+    "id": 9,
+    "img": "images/product-9.jpg",
+    "title": "Sản phẩm 9",
+    "price": 350
+  },
+  {
+    "id": 10,
+    "img": "images/product-10.jpg",
+    "title": "Sản phẩm 10",
+    "price": 350
+  }
+]

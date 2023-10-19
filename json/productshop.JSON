@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "img": "images/product-1.jpg",
+        "title": "Sản phẩm 1",
+        "price": 200
+      },
+      {
+        "id": 2,
+        "img": "images/product-2.jpg",
+        "title": "Sản phẩm 2",
+        "price": 400
+      },
+      {
+        "id": 3,
+        "img": "images/product-3.jpg",
+        "title": "Sản phẩm 3",
+        "price": 350
+      },
+      {
+        "id": 4,
+        "img": "images/product-4.jpg",
+        "title": "Sản phẩm 4",
+        "price": 210
+      },
+      {
+        "id": 5,
+        "img": "images/product-5.jpg",
+        "title": "Sản phẩm 5",
+        "price": 420
+      },
+      {
+        "id": 6,
+        "img": "images/product-6.jpg",
+        "title": "Sản phẩm 6",
+        "price": 540
+      },
+      {
+        "id": 7,
+        "img": "images/product-7.jpg",
+        "title": "Sản phẩm 7",
+        "price": 260
+      },
+      {
+        "id": 8,
+        "img": "images/product-8.jpg",
+        "title": "Sản phẩm 8",
+        "price": 350
+      },
+      {
+        "id": 9,
+        "img": "images/product-9.jpg",
+        "title": "Sản phẩm 9",
+        "price": 350
+      },
+      {
+        "id": 10,
+        "img": "images/product-10.jpg",
+        "title": "Sản phẩm 10",
+        "price": 350
+      },
+      {
+        "id": 10,
+        "img": "images/12.jpg",
+        "title": "Sản phẩm 10",
+        "price": 350
+      },
+      {
+        "id": 10,
+        "img": "images/13.jpg",
+        "title": "Sản phẩm 10",
+        "price": 350
+      },
+      {
+        "id": 10,
+        "img": "images/14.jpg",
+        "title": "Sản phẩm 10",
+        "price": 350
+      },
+      {
+        "id": 10,
+        "img": "images/15.jpg",
+        "title": "Sản phẩm 10",
+        "price": 350
+      },
+      {
+        "id": 10,
+        "img": "images/16.jpg",
+        "title": "Sản phẩm 10",
+        "price": 350
+      },
+      {
+        "id": 10,
+        "img": "images/17.jpg",
+        "title": "Sản phẩm 10",
+        "price": 350
+      }
+  ]
